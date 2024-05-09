@@ -1,0 +1,10 @@
+- Tại sao phải dùng git : + dùng để quản lý code
+				  + theo dõi các phiên bản code và file code
+				  + dễ dàng quản lý code
+				  
+* - git init : tạo ra respon mới
+  - git add  : lựa chọn các file mong muốn đẩy lên
+  - git commit : đẩy code thay đổi vào máy 
+  - git push : đẩy code lên mạng
+  - git clone: lấy code trên mạng về (tải nguyên prj về)
+  - git pull : cập nhập thay đổi của code
